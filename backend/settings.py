@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-t!z%+l%*%q0&asn&fj=qz&qx_n_)o8zbjp@qvvt-bw!v79i^pd
 DEBUG = True
 APPEND_SLASH = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kathiyawadivillage.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
